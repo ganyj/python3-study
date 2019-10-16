@@ -14,3 +14,5 @@ python学习过程的一些笔记
 2-4 [转义字符、字符串格式化、序列相关方法、首字母及大小写转换](https://github.com/ganyj/python3-study/blob/master/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E5%8F%98%E9%87%8F%E5%92%8C%E7%AE%80%E5%8D%95%E7%B1%BB%E5%9E%8B/2-4%E8%BD%AC%E4%B9%89%E5%AD%97%E7%AC%A6%E3%80%81%E5%AD%97%E7%AC%A6%E4%B8%B2%E6%A0%BC%E5%BC%8F%E5%8C%96%E3%80%81%E5%BA%8F%E5%88%97%E7%9B%B8%E5%85%B3%E6%96%B9%E6%B3%95%E3%80%81%E9%A6%96%E5%AD%97%E6%AF%8D%E5%8F%8A%E5%A4%A7%E5%B0%8F%E5%86%99%E8%BD%AC%E6%8D%A2.md)
  
 2-5 [删除空白字符，查找、替换字符、分割、链接](https://github.com/ganyj/python3-study/blob/master/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E5%8F%98%E9%87%8F%E5%92%8C%E7%AE%80%E5%8D%95%E7%B1%BB%E5%9E%8B/2-5%E5%88%A0%E9%99%A4%E7%A9%BA%E7%99%BD%E5%AD%97%E7%AC%A6%EF%BC%8C%E6%9F%A5%E6%89%BE%E3%80%81%E6%9B%BF%E6%8D%A2%E5%AD%97%E7%AC%A6%E3%80%81%E5%88%86%E5%89%B2%E3%80%81%E9%93%BE%E6%8E%A5.md)
+
+2-6 [运算符统讲](https://github.com/ganyj/python3-study/blob/master/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E5%8F%98%E9%87%8F%E5%92%8C%E7%AE%80%E5%8D%95%E7%B1%BB%E5%9E%8B/2-6%E8%BF%90%E7%AE%97%E7%AC%A6%E7%BB%9F%E8%AE%B2.md)
